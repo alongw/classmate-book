@@ -1,0 +1,8 @@
+{
+    "name": "classmate-book",
+    "repository": "https://github.com/alongw/classmate-book.git",
+    "scripts": {
+        "install": ".\\script\\install.bat",
+        "dev": ".\\script\\dev.bat"
+    }
+}
